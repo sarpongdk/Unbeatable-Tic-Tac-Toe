@@ -2,7 +2,7 @@
 
 The famous tic tac toe game with the AI, i.e., the computer opponent, programmed using an implementation of the minimax algorithm. 
 
-To play the game, navigate to `https://sarpongdk-tictactoe.herokuapp.com`
+To play the game, navigate [here](https://sarpongdk-tictactoe.herokuapp.com)`
 
 
 ## Minimax Algorithm
